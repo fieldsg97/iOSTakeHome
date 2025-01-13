@@ -74,7 +74,7 @@
 ---
 
 ## License
-### © Graham Fields, 2024
+### © Graham Fields, 2025
 All rights reserved. Unauthorized use of this app's code, design, or assets is strictly prohibited.
 
 ---
